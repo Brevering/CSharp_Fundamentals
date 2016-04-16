@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdBit\bin\Debug\ThirdBit.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdBit\bin\Debug\ThirdBit.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdBit\bin\Debug\ThirdBit.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdBit\obj\Debug\ThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdBit\obj\Debug\ThirdBit.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdBit\obj\Debug\ThirdBit.pdb

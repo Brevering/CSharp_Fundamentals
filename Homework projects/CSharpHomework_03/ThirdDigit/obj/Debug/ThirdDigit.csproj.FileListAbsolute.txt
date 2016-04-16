@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\ThirdDigit\obj\Debug\ThirdDigit.pdb

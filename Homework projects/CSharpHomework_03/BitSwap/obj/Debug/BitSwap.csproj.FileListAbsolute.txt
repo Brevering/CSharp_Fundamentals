@@ -1,0 +1,9 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\BitSwap\bin\Debug\BitSwap.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\BitSwap\bin\Debug\BitSwap.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\BitSwap\bin\Debug\BitSwap.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\BitSwap\obj\Debug\BitSwap.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\BitSwap\obj\Debug\BitSwap.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\BitSwap\obj\Debug\BitSwap.pdb
+C:\Users\Stanimir\Documents\GitHub\CSharp1Fundamentals\Homework projects\CSharpHomework_03\BitSwap\bin\Debug\BitSwap.exe.config
+C:\Users\Stanimir\Documents\GitHub\CSharp1Fundamentals\Homework projects\CSharpHomework_03\BitSwap\obj\Debug\BitSwap.exe
+C:\Users\Stanimir\Documents\GitHub\CSharp1Fundamentals\Homework projects\CSharpHomework_03\BitSwap\obj\Debug\BitSwap.pdb

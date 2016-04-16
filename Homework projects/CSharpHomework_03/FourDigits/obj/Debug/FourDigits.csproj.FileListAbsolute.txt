@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\FourDigits\bin\Debug\FourDigits.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\FourDigits\bin\Debug\FourDigits.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\FourDigits\bin\Debug\FourDigits.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\FourDigits\obj\Debug\FourDigits.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\FourDigits\obj\Debug\FourDigits.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\FourDigits\obj\Debug\FourDigits.csprojResolveAssemblyReference.cache

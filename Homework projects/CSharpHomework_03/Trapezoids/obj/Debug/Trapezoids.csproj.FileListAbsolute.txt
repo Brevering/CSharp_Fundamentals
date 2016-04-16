@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\Trapezoids\obj\Debug\Trapezoids.pdb

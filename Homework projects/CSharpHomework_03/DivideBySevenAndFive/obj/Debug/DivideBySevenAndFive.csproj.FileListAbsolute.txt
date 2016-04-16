@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.pdb
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.csprojResolveAssemblyReference.cache

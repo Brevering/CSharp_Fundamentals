@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\OddOrEven\bin\Debug\OddOrEven.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\OddOrEven\bin\Debug\OddOrEven.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\OddOrEven\bin\Debug\OddOrEven.pdb
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\OddOrEven\obj\Debug\OddOrEven.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharpHomework_03\OddOrEven\obj\Debug\OddOrEven.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp_1_Fundamentals\Homework projects\CSharpHomework_03\OddOrEven\obj\Debug\OddOrEven.pdb

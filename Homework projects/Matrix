@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace MatrixOfNumbers
+{
+    class MatrixOfNumbers
+    {
+        static void Main()
+        {
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= n; i++)
+            {
+                IEnumerable<int> mylist = Enumerable.Range(i, n);
+                foreach (int num in mylist)
+                {
+                    Console.Write("{0} ", num);
+                }
+                Console.WriteLine("");
+
+            }
+
+        }
+    }
+}
